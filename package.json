@@ -1,0 +1,29 @@
+{
+  "name": "crm-for-claude-code",
+  "version": "1.0.0",
+  "description": "The open-source CRM that is just a database and Claude Code.",
+  "type": "module",
+  "license": "MIT",
+  "author": "Enterprise DNA (https://www.enterprisedna.co)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Enterprise-DNA-OS/crm-for-claude-code.git"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "bin": {
+    "crm": "scripts/crm.mjs"
+  },
+  "scripts": {
+    "migrate": "node scripts/migrate.mjs",
+    "seed": "node scripts/seed.mjs",
+    "demo": "node scripts/migrate.mjs && node scripts/seed.mjs && node scripts/crm.mjs pipeline && node scripts/crm.mjs followups",
+    "crm": "node scripts/crm.mjs",
+    "test": "node scripts/smoke.mjs"
+  },
+  "dependencies": {
+    "@electric-sql/pglite": "^0.5.8",
+    "pg": "^8.23.0"
+  }
+}

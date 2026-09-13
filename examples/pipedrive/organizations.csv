@@ -1,0 +1,5 @@
+ID,Name,Label,Address,Owner,People,Open deals,Won deals,Lost deals
+101,Acme Engineering,Customer,"12 Foundry Lane, Auckland 1010, New Zealand",Sam McKay,2,1,0,0
+102,Northwind Freight,Prospect,"88 Quay Street, Wellington 6011, New Zealand",Sam McKay,1,1,0,0
+103,Lakeside Physio,Customer,"4 Marine Parade, Rotorua 3010, New Zealand",Sam McKay,1,0,1,0
+104,Pinecrest Builders,,"210 Great South Road, Hamilton 3204, New Zealand",Sam McKay,1,0,0,1

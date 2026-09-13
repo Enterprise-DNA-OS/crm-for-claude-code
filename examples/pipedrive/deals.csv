@@ -1,0 +1,5 @@
+ID,Title,Value,Currency,Organization,Organization ID,Contact person,Contact person ID,Stage,Pipeline,Status,Expected close date,Won time,Lost time,Lost reason,Deal created,Owner
+301,Acme job costing dashboard,12500,NZD,Acme Engineering,101,Alex Turner,201,Proposal Made,Sales,open,2026-10-15,,,,2026-08-20 09:14:00,Sam McKay
+302,Northwind quote automation,8200,NZD,Northwind Freight,102,David Kaur,203,Contact Made,Sales,open,2026-11-01,,,,2026-09-02 14:30:00,Sam McKay
+303,Lakeside booking reminders,4800,NZD,Lakeside Physio,103,Grace Tui,204,Won,Sales,won,2026-07-30,2026-07-28 16:05:00,,,2026-06-10 11:00:00,Sam McKay
+304,Pinecrest site diary app,15000,NZD,Pinecrest Builders,104,"O'Brien, Patrick",205,Negotiations Started,Sales,lost,2026-08-15,,2026-08-18 10:20:00,Budget cut,2026-06-25 08:45:00,Sam McKay
