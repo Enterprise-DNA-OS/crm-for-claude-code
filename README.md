@@ -19,8 +19,8 @@ Created by [Enterprise DNA](https://www.enterprisedna.co)
 <table align="center">
   <tr>
     <td align="center"><strong>Do it yourself</strong><br/>Clone it, run it, own it. Free, MIT.<br/><a href="#quick-start">Quick start</a></td>
-    <td align="center"><strong>We customise it</strong><br/>Your fields, your rules, a web front end if you want one, your Pipedrive data brought across.<br/><a href="https://calendly.com/sam-mckay/discovery-call">Book a call</a></td>
-    <td align="center"><strong>We run it for you</strong><br/>Installed, connected and operated inside Omni. Setup fee, then a retainer.<br/><a href="https://enterprisedna.co/omni/instead-of/pipedrive">How it works</a></td>
+    <td align="center"><strong>We customise it</strong><br/>Your fields, your rules, a web front end if you want one, your Pipedrive data brought across.<br/><a href="https://calendly.com/sam-mckay/discovery-call?utm_source=github&utm_medium=readme&utm_campaign=pipedrive">Book a call</a></td>
+    <td align="center"><strong>We run it for you</strong><br/>Installed, connected and operated inside Omni. Setup fee, then a retainer.<br/><a href="https://enterprisedna.co/omni/instead-of/pipedrive?utm_source=github&utm_medium=readme&utm_campaign=pipedrive">How it works</a></td>
   </tr>
 </table>
 
@@ -174,9 +174,9 @@ Run `npm test` before you open a PR.
 
 Enterprise DNA installs this for your business, migrates your Pipedrive data, connects it to your email and calendar, and runs it for you as part of Omni, our managed Command Center. One setup fee, then a monthly retainer.
 
-Book a call: https://calendly.com/sam-mckay/discovery-call
+Book a call: https://calendly.com/sam-mckay/discovery-call?utm_source=github&utm_medium=readme&utm_campaign=pipedrive
 
-Read more: https://enterprisedna.co/omni/instead-of/pipedrive
+Read more: https://enterprisedna.co/omni/instead-of/pipedrive?utm_source=github&utm_medium=readme&utm_campaign=pipedrive
 
 ## License
 
